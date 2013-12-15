@@ -6,6 +6,8 @@
 
 let g:airline_powerline_fonts = 1
 set nocompatible
+set laststatus=2
+set noshowmode
 execute pathogen#infect()
 autocmd BufNewFile *.rb 0put = '#!/usr/bin/env ruby'   | normal G
 autocmd BufNewFile *.sh 0put = '#!/usr/bin/env bash'   | normal G
