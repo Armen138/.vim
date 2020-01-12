@@ -1,0 +1,31 @@
+[submodule "pack/appearance/start/vim-airline"]
+    path = pack/appearance/start/vim-airline
+    url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/appearance/start/vim-gitgutter"]
+    path = pack/appearance/start/vim-gitgutter
+    url = https://github.com/airblade/vim-gitgutter.git
+[submodule "pack/languages/start/rust.vim"]
+    path = pack/languages/start/rust.vim
+    url = https://github.com/rust-lang/rust.vim.git
+[submodule "pack/languages/start/vim-json"]
+    path = pack/languages/start/vim-json
+    url = https://github.com/elzr/vim-json.git
+[submodule "pack/languages/start/syntastic"]
+    path = pack/languages/start/syntastic
+    url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/utility/start/ctrlp.vim"]
+    path = pack/utility/start/ctrlp.vim
+    url = https://github.com/kien/ctrlp.vim.git
+[submodule "pack/utility/start/tabular"]
+    path = pack/utility/start/tabular
+    url = https://github.com/godlygeek/tabular.git
+[submodule "pack/utility/start/tagbar"]
+    path = pack/utility/start/tagbar
+    url = https://github.com/majutsushi/tagbar.git
+[submodule "pack/utility/start/vim-commentary"]
+    path = pack/utility/start/vim-commentary
+    url = https://github.com/tpope/vim-commentary.git
+[submodule "pack/utility/start/vim-vinegar"]
+    path = pack/utility/start/vim-vinegar
+    url = https://github.com/tpope/vim-vinegar.git
+
